@@ -47,7 +47,7 @@ function addEvents () {
     setExpression('');
     setLeftOperand('');
     setRightOperand('');
-    setOperator(ADDITION);
+    setOperator('ADDITION');
     setResult('');
 
     previousResultsElement.innerHTML = '';
